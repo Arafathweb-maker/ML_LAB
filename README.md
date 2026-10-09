@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 # ml-lab
+=======
+# ML_LAB
+MACHINE LEARNING LABORATORY
+>>>>>>> e5aa7ea06bf004d98de45621abb44597a4047f89
